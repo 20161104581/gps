@@ -30,9 +30,8 @@ int main(int argc, const char * argv[])
         printf("打开文件错误");
     else
         fprintf(fp3,"日期  ,时间  ,纬度  ,经度  ,速率 , 卫星 ,海拔  \n");
-    while(!feof(fp2))
+    while(fscanf(fp2,"%s%s",s1,s2)!=EOF)
     {
-      fscanf(fp2,"%s%s",s1,s2);
       //printf("%s\n%s\n",s1,s2);
       for(i=0;i<2;i++)
       {
