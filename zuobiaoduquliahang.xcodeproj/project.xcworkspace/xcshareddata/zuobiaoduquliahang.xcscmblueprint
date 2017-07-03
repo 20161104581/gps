@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4EF104C5896408BD726CA90B8E5CDA1C41D86FF7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D7D23C89C1AA09F515524D7421E296EF6337467D" : 9223372036854775807,
+    "4EF104C5896408BD726CA90B8E5CDA1C41D86FF7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "19A452C7-CCD2-42F0-8235-A3C3B9028B02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D7D23C89C1AA09F515524D7421E296EF6337467D" : "magic\/zuobiaoduquliahang\/",
+    "4EF104C5896408BD726CA90B8E5CDA1C41D86FF7" : "magic\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "zuobiaoduquliahang",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "zuobiaoduquliahang.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/20161104581\/gps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EF104C5896408BD726CA90B8E5CDA1C41D86FF7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/20161104581\/zuobiaoduquliahang.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7D23C89C1AA09F515524D7421E296EF6337467D"
+    }
+  ]
+}
